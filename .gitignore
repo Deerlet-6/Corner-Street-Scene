@@ -1,0 +1,19 @@
+# Blender
+*.blend1
+*.blend2
+*.blend@
+__pycache__/
+*.pyc
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+.vscode/
+
+# 系统
+.DS_Store
